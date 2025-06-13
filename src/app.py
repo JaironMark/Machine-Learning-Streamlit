@@ -5,7 +5,7 @@ import numpy as np
 import joblib
 import os
 
-MODEL_PATH = "../Documents/Repositories/Machine-Learning-Streamlit/models/knn_model_iris.pkl"
+MODEL_PATH = 'models/knn_model_iris.pkl'
 # v12
 
 
