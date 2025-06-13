@@ -6,6 +6,7 @@ import joblib
 import os
 
 MODEL_PATH = "../Documents/Repositories/Machine-Learning-Streamlit/models/knn_model_iris.pkl"
+# v12
 
 
 
